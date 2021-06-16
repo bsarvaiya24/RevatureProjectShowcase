@@ -2,7 +2,7 @@
 
 ## Project 3
 
-`visualization-tool-client_development-main.mp4`
+[`visualization-tool-client_development-main.mp4`](https://github.com/bsarvaiya24/RevatureProjectShowcase/blob/d8ffa9a090820caaabe23184bcc77468a2ed4996/visualization-tool-client_development-main.mp4)
 
 Video file visualizing the progress of 
 Project 3 : **Curricula Visualization Tool** (Client Side).
